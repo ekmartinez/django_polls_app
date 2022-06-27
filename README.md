@@ -1,2 +1,2 @@
 # django_polls_app
-Code made while completing the polls app at djangoproject.com
+Code created while completing the polls app at djangoproject.com
